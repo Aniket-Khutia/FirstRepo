@@ -46,7 +46,7 @@ df = pd.DataFrame(row, columns=["name", "desg", "city", "salary", "ContactType",
 
 print(df.to_string())
 
-df.to_csv("C:\\Users\\HP PC\\OneDrive\\Desktop\\JSONProj\\Converted\\Emp.csv")
+#df.to_csv("C:\\Users\\HP PC\\OneDrive\\Desktop\\JSONProj\\Converted\\Emp.csv")
 
 
 
