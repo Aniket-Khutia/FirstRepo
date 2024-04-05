@@ -1,0 +1,193 @@
+{
+    "Employees": [
+        {
+            "name": "Aniket",
+            "desg": "Trainee",
+            "city": "Kolkata",
+            "salary": 25000,
+            "Contact": {
+                "phone": [
+                    {
+                        "PhoneType": "Home"
+                        
+                    },
+                    {
+                        "PhoneType": "Work",
+			"Number": "348934834"
+                        
+                    }
+                ],
+                "email": [
+                    {
+                        "MailType": "Personal"
+                        
+                    },
+                    {
+                        "MailType": "Work",
+                        "EmailID": "2131157@cognizant.com"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Rahman",
+            "desg": "Web Dev",
+            "city": "Delhi",
+            "salary": 35000,
+            "Contact": {
+                "phone": [
+                    {
+                        "PhoneType": "Home",
+                        "Number": "7044324"
+                    },
+                    {
+                        "PhoneType": "Work",
+                        "Number": "348111134"
+                    }
+                ]
+                            }
+        },
+        {
+            "name": "Deepak",
+            "desg": "Cloud Architect",
+            "city": "Kolkata",
+            "salary": 55000,
+            "Contact": {
+                                "email": [
+                    {
+                        "MailType": "Personal",
+                        "EmailID": "Deep.99@gmail.com"
+                    },
+                    {
+                        "MailType": "Work",
+                        "EmailID": "6671157@cognizant.com"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Neeraj",
+            "desg": "Sr Analyst",
+            "city": "Varanasi",
+            "Contact": {
+            }
+        },
+        {
+            "name": "Karan",
+            "desg": "Sr Analyst",
+            "city": "Mumbai",
+            "salary": 45000,
+            "Contact": {
+                "phone": [
+                    {
+                        "Number": "7044350024"
+                    },
+                    {
+                        "PhoneType": "Work",
+                        "Number": "348934834"
+                    }
+                ],
+                "email": [
+                    {
+                        
+                        "EmailID": "karan.99@gmail.com"
+                    },
+                    {
+                        "MailType": "Work",
+                        "EmailID": "290057@cognizant.com"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Arjun",
+            "desg": "Trainee",
+            "city": "Delhi",
+            "salary": 25000,
+            "Contact": {
+                "phone": [
+                    {
+                        "PhoneType": "Home",
+                        "Number": "7044350024"
+                    },
+                    {
+                        "PhoneType": "Work",
+                        "Number": "348934834"
+                    }
+                ],
+                "email": [
+                    {
+                        "MailType": "Personal",
+                        "EmailID": "arjun.99@gmail.com"
+                    },
+                    {
+                        "MailType": "Work",
+                        "EmailID": "99234@cognizant.com"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Ritu",
+            "desg": "Sr Analyst",
+            "salary": 40000,
+            "Contact": {
+                "phone": [
+                    {
+                        "PhoneType": "Home",
+                        "Number": "7044350024"
+                    },
+                    {
+                        "PhoneType": "Work",
+                        "Number": "348934834"
+                    }
+                ]
+                            }
+        },
+        {
+            "name": "Arvind",
+            "desg": "Sr Analyst",
+            "salary": 40000,
+            "Contact": {
+                "phone": [
+                    {
+                        "PhoneType": "Home",
+                        "Number": "7044350024"
+                    },
+                    {
+                        "PhoneType": "Work",
+                        "Number": "348934834"
+                    }
+                ],
+                "email": [
+                    {
+                        "MailType": "Personal",
+                        "EmailID": "aniketkhutia.99@gmail.com"
+                    },
+                    {
+                        "MailType": "Work",
+                        "EmailID": "2131157@cognizant.com"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Kunal",
+            "desg": "Sr Analyst",
+            "city": "Delhi",
+            "salary": 40000,
+            "Contact": {
+                
+            }
+        },
+        {
+            "name": "Raj",
+            "desg": "Trainee",
+            "city": "Mumbai",
+            "salary": 25000,
+	    "Contact": {
+                            }
+        
+
+	    }    ]
+}
